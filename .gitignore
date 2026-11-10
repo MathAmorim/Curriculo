@@ -1,0 +1,8 @@
+# Ignorar o PDF original na raiz (contém telefone e endereço)
+# O arquivo higienizado pronto para publicação está em assets/curriculo.pdf
+/curriculo.pdf
+
+# Ignorar arquivos auxiliares locais
+/todo.md
+/graphify-out/
+/README.md
